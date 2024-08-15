@@ -9,18 +9,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c" /><br>
 </div>
-
-
-<!--
-<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en" alt="dot-name" width = "50%"/>
-<br>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&" alt="dot-name" width = "50%" /></span>
--->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

@@ -6,6 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c++,nextjs" /><br>
+</div>
+
+
 <!--
 <span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" />
 <br>

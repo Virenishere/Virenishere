@@ -6,7 +6,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
 
-<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" /><br><img   src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en" alt="dot-name" width = "50%"/><br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&" alt="dot-name" width = "50%" /></span>
+<!--
+<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en" alt="dot-name" width = "50%"/>
+<br>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&" alt="dot-name" width = "50%" /></span>
+-->
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en" alt="dot-name" width = "50%"/>
+<br>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&" alt="dot-name" width = "50%" /></span>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Virenishere/Virenishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

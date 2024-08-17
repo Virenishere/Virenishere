@@ -5,13 +5,11 @@
 
 <p>I've have been using GitHub to host my repos😊</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,html,css,vite,vscode,github,git,c" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>

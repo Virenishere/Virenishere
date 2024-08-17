@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,tailwind,bootstrap" alt="Skills"/><br>
-    <img src="https://skillicons.dev/icons?i=mui,html,css,vite,vscode,github,git,c" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vite,vscode,github,git,cpp,c" alt="Skills"/>
 </div>
 
 ---

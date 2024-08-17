@@ -32,11 +32,11 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width: 45%; min-width: 250px; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=radical" alt="GitHub Streak" style="width: 45%; min-width: 250px; height: auto;" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 80%; min-width: 300px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width: 33%; min-width: 200px; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=radical" alt="GitHub Streak" style="width: 33%; min-width: 200px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 33%; min-width: 200px; height: auto;" />
 </div>
+
 
 
 

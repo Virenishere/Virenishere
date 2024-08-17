@@ -1,24 +1,48 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;+My+name+is+Virender+Prasad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;+I'm+Virender+Prasad!;+Welcome+to+my+GitHub!"/>
 </h1>
 
-<p>I've have been using GitHub to host my repos😊</p>
+<p align="center">
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hello" width="50"/>
+</p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<p align="center"> 
+    I'm a passionate developer, continually learning and building exciting projects. 😊
+</p>
+
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mui,html,css,vite,vscode,github,git,c" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,tailwind,bootstrap" alt="Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vite,vscode,github,git,c" alt="Skills"/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact" alt="dot-name" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en" alt="dot-name" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&" alt="dot-name" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=radical" alt="GitHub Streak" height="200px"/>
 </div>
+
+---
+
+<h2 align="center">✨ Connect with me ✨</h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+    </a>
+    <a href="mailto:virender288@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
+    </a>
+</div>
+
 
 
 

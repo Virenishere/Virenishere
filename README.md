@@ -8,8 +8,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,html,css,vite,vscode,github,git,c" />
+    <img src="https://skillicons.dev/icons?i=react,,javascript,,nodejs,,express,mongodb,tailwind,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vite,vscode,github,git,c" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>

@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hello" width="100"/>
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hello" width="200"/>
 </p>
 
 <p align="center"> 

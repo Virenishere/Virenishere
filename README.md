@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> 
-    I'm a passionate developer, continually learning and building exciting projects. 😊
+    I'm a passionate developer👋, continually learning and building exciting projects. 😊
 </p>
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>

@@ -17,7 +17,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,ts,nodejs,express,mongodb,postgres,html,css,tailwind,bootstrap,mui,vite,fastapi,vscode,postman,appwrite,github,docker,git,cpp,c,py" alt="Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,ts,nodejs,py,express,mongodb,postgres,html,css,tailwind,bootstrap,mui,vite,fastapi,vscode,postman,appwrite,github,docker,git,cpp,c,figma" alt="Skills"/><br>
 
 </div>
 

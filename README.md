@@ -1,90 +1,115 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;I'm+a+Full+Stack+Developer!;Welcome+to+my+GitHub!;Let's+build+something+awesome+🚀"/>
+</h1>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/M9GB3dMWNp8MqFNk0t/giphy.gif" alt="Coding" width="200"/>
+</p>
+
+<p align="center"> 
+🚀 Passionate developer building impactful products and contributing to open-source. Always learning, experimenting, and pushing limits to become a truly <strong>cracked developer</strong> while giving back to the community. 💪
+</p>
+
+---
+
+<h2 align="center">🧠 Languages, Frameworks & Tools</h2>
+<br/>
+
 <div align="center">
 
-### 🚀 Welcome to My Dev Universe
+  <h3>⚡ Frontend</h3>
+  <p>
+    Building interactive and scalable UIs with modern frameworks.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,html,css,tailwind,bootstrap,vue,figma" alt="Frontend Skills" />
 
-I'm a passionate developer building impactful products and contributing to open-source. Always learning, experimenting, and pushing limits to become a truly **cracked developer** while giving back to the community. 💪
+  <br/><br/>
+
+  <h3>🖥️ Backend</h3>
+  <p>
+    Crafting reliable APIs and managing data with modern technologies.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,postgres,mongodb,redis,prisma" alt="Backend Skills" />
+
+  <br/><br/>
+
+  <h3>⚙️ DevOps & Tools</h3>
+  <p>
+    Automating workflows, containerizing apps, and collaborating efficiently.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vscode,linux,notion,pnpm" alt="DevOps Tools" />
+
+  <br/><br/>
+
+  <h3>💡 Other Languages</h3>
+  <p>
+    Exploring system-level programming and multiple paradigms.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=go,rust,java,cpp" alt="Languages" />
 
 </div>
 
 ---
 
-## 🧠 Frontend
-
-Building interactive and scalable UIs with modern tools and frameworks.
-
-- **React** - Building component-driven applications
-- **Next.js** - Full-stack development and optimization
-- **TypeScript** - Type-safe JavaScript development
-- **Tailwind CSS** - Utility-first styling
-- **Vue.js** - Progressive UI development
-
-## 🖥️ Backend
-
-Crafting reliable APIs and managing data with modern technologies.
-
-- **Node.js** - Server-side JavaScript runtime
-- **Python** - Backend services and data processing
-- **PostgreSQL** - Relational database management
-- **MongoDB** - NoSQL data solutions
-- **REST APIs** - Scalable API design
-
-## ⚙️ DevOps & Tools
-
-Automating workflows, containerizing apps, and collaborating efficiently.
-
-- **Docker** - Containerization
-- **Kubernetes** - Orchestration
-- **Git** - Version control
-- **CI/CD** - Automated deployments
-- **AWS** - Cloud infrastructure
-
-## 💡 Other Languages
-
-Learning from system-level programming and exploring multiple paradigms.
-
-- **Go** - Systems programming
-- **Rust** - Performance and safety
-- **Java** - Enterprise applications
-- **C++** - Low-level optimization
-
----
-
-## 🚀 Currently Exploring
-
-Diving deeper into **real-time systems**, **scalable architectures**, and **open-source contributions**.
-
-Currently exploring:
-- WebSockets and real-time communication
-- Performance optimization techniques
-- Serverless architecture patterns
-- AI/ML integration in web apps
-
----
-
-## 📊 GitHub Stats
-
+<h2 align="center">🚀 Currently Exploring</h2>
+<p align="center">
+  🔍 Diving deeper into real-time systems, scalable architectures, and open-source contributions.  
+  <br/>Currently exploring <strong>WebSockets</strong>, <strong>performance optimization</strong>, and <strong>serverless architecture</strong>.
+</p>
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
+  <img src="https://skillicons.dev/icons?i=nextjs,aws,docker,redis,kubernetes" alt="Currently Exploring" />
 </div>
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">📊 GitHub Stats</h2>
+<br/>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile) • [Twitter/X](https://x.com/your-handle) • [Portfolio](https://yourportfolio.com) • [Email](mailto:your.email@example.com)
+---
 
+<h2 align="center">✨ Connect with me</h2>
+<div align="center">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjwuNxucBL58aVOh/giphy.gif" width="60"/>&nbsp;&nbsp;
+  <em><b>Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects!</b></em>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/LnQjwuNxucBL58aVOh/giphy.gif" width="60"/>
+</div>
 
-**Built with passion. Crafted with code. Deployed with precision.** ✨
+---
 
+<div align="center">
+  <strong>Built with passion. Crafted with code. Deployed with precision.</strong> ✨
 </div>

@@ -10,53 +10,74 @@
     <img src="http://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV0eXI5eGNnZHRyd284MDJ0OWI1cnowY3E2ajlvZHhteml1aG1vMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H1jSPXCJmo8AZi3gdP/giphy.gif" alt="Hello" width="205"/>
 </p>
 
-<p align="center"> 
-    I'm a passionate developer👋, continually learning and building exciting projects. 😊
-</p>
+<p align="center"> 🚀 I'm a passionate developer focused on building impactful products and contributing to open-source projects. Always learning, experimenting, and pushing my limits to become a truly **cracked developer** while giving back to the dev community. 💪 </p>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+
+<h2 align="center"> Languages, Frameworks & Tools </h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,nodejs,py,express,mongodb,postgres,redis,prisma,html,css,tailwind,bootstrap,mui,vite,fastapi,vscode,postman,appwrite,github,docker,git,cpp,c,figma,linux,arch,lua,bun,pnpm,aws,neovim,notion," alt="Skills"/><br>
+
+  <h3>🧠 Frontend</h3>
+  <p>
+    Building interactive and scalable UIs with modern tools and frameworks.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,html,css,tailwind,bootstrap,mui,vite,figma" alt="Frontend Skills" />
+
+  <br/><br/>
+
+  <h3>🖥️ Backend</h3>
+  <p>
+    Crafting reliable APIs and managing data with Node.js, Python, and modern databases.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,mongodb,postgres,redis,prisma,appwrite" alt="Backend Skills" />
+
+  <br/><br/>
+
+  <h3>⚙️ DevOps & Tools</h3>
+  <p>
+    Automating workflows, containerizing apps, and collaborating efficiently.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,vscode,neovim,linux,arch,notion,bun,pnpm" alt="DevOps Tools" />
+
+  <br/><br/>
+
+  <h3>💡 Other Languages</h3>
+  <p>
+    Learning from system-level programming and exploring multiple paradigms.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,lua" alt="Languages" />
+
+  <br/><br/>
+
+  <h3>🚀 Currently Exploring</h3>
+  <p>
+    Diving deeper into real-time systems, scalable architectures, and open-source contributions.  
+    Currently exploring <strong>WebSockets</strong>, <strong>performance optimization</strong>, and <strong>serverless architecture</strong>.  
+  </p>
+  <img src="https://skillicons.dev/icons?i=nextjs,aws,docker,redis" alt="Currently Exploring" />
 
 </div>
+
 
 ---
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=radical" alt="GitHub Streak" height="200px"/>
-</div> -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width:  50%; min-width: 250px; height: auto;" />
- 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virenishere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
-
-<br />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=radical" alt="GitHub Streak" style="width: 50%; min-width: 250px; height: auto;" />
-
-
-
-</div>
-
-
-
-
 
 ---
 
 <h2 align="center">✨ Connect with me ✨</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-    </a>
-    <a href="mailto:virender288@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
-    </a>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://discord.gg/your_discord_invite" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/>
+  </a>
+  <a href="mailto:virender288@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
+  </a>
 </div>
 
 

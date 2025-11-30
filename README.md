@@ -45,12 +45,6 @@
 
   <br/><br/>
 
-  <h3>💡 Other Languages</h3>
-  <p>
-    Exploring system-level programming and multiple paradigms.  
-  </p>
-  <img src="https://skillicons.dev/icons?i=go,rust,java,cpp" alt="Languages" />
-
 </div>
 
 ---

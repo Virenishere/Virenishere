@@ -97,9 +97,9 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjwuNxucBL58aVOh/giphy.gif" width="60"/>&nbsp;&nbsp;
+ 
   <em><b>Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects!</b></em>&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/LnQjwuNxucBL58aVOh/giphy.gif" width="60"/>
+ 
 </div>
 
 ---

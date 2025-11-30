@@ -71,31 +71,6 @@
 
 ---
 
-<h2 align="center">✨ Connect with me</h2>
-<div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50"/>
-  </a>
-</div>
-
----
-
 <div align="center">
  
   <em><b>Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects!</b></em>&nbsp;&nbsp;

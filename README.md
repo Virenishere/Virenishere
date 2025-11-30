@@ -25,7 +25,7 @@
   <p>
     Building interactive and scalable UIs with modern frameworks.  
   </p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,html,css,tailwind,bootstrap,vue,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,html,css,tailwind,bootstrap,figma" alt="Frontend Skills" />
 
   <br/><br/>
 

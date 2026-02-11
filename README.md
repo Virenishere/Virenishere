@@ -57,12 +57,17 @@ NestJS • Three.js • Go • Rust • Web3 • AI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Virenishere&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Virenishere&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Virenishere" />
+  <img src="https://streak-stats.demolab.com?user=Virenishere&theme=github-dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Virenishere&theme=github_dark" />
+</p>
+
 
 
 

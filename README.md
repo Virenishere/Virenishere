@@ -1,96 +1,77 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hey+there!+👋;I'm+Virender+Prasad;Full-Stack+Engineer;AI+%2B+Web3+%2B+DevOps+Enthusiast" />
-</h1>
+<h1 align="center">Hi, I'm Virender Prasad 👋</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200"/>
+Full-Stack Engineer • DevOps Learner • AI + Web3 Enthusiast
 </p>
 
 <p align="center">
-🚀 Full-Stack Engineer building scalable products and learning modern infrastructure.<br/>
-Currently focused on <strong>DevOps</strong> while preparing for <strong>AI + Web3</strong>.
+<a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:virender288@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Full-Stack Engineer (MERN • TypeScript • Python)  
-- Learning DevOps (AWS • Docker • Linux)  
-- Exploring AI + Web3  
+I'm a Full-Stack Engineer focused on building scalable web applications and learning modern infrastructure.  
+Currently diving deep into **DevOps**, while preparing for **AI + Web3**.
+
+- Full Stack: MERN, TypeScript, Python  
+- Backend APIs & databases  
+- Learning cloud & containerization  
 - Practicing DSA  
-- OS: macOS • Linux • Windows  
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- OS Experience: macOS • Linux • Windows  
 
 ---
 
 ## 🛠 Tech Stack
 
-### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma" />
+### Frontend
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind • Bootstrap • Figma  
 
-### 🖥 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mongodb,postgres,redis,prisma" />
+### Backend
+Node.js • Python • Express • FastAPI • MongoDB • PostgreSQL • Redis • Prisma  
 
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,vscode,postman,pnpm" />
+### DevOps & Tools
+Docker • AWS • Kubernetes • Git • GitHub • Linux • VS Code • Postman • pnpm  
 
 ---
 
 ## 🚀 Currently Learning
 
-### DevOps (primary focus)
-
-<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,linux" />
+**DevOps (primary focus)**  
+Docker • AWS • Kubernetes • Linux fundamentals  
 
 ---
 
 ## 🧭 Planned Next
 
-nestjs • threejs • go • rust • web3 • ai
+NestJS • Three.js • Go • Rust • Web3 • AI  
 
 ---
 
-## 📊 GitHub Stats (Auto Dark/Light)
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&theme=transparent"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&theme=transparent"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=transparent"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=transparent"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virenishere&layout=compact&theme=transparent"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virenishere&layout=compact&theme=transparent"/>
 </p>
 
 ---
 
-## ✨ Philosophy
+### Philosophy
 
-> Build. Break. Learn. Repeat.  
-> Consistency beats motivation.
+Build. Learn. Improve. Repeat.
 
----
-
-<p align="center">
-<strong>Built with passion. Crafted with code. Deployed with precision.</strong> 🚀
-</p>
+Consistency beats motivation.

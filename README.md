@@ -56,19 +56,18 @@ NestJS • Three.js • Go • Rust • Web3 • AI
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Virenishere&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Virenishere&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Virenishere&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virenishere&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Virenishere&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 

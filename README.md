@@ -1,84 +1,96 @@
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Virenishere&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;+I'm+Virender+Prasad!;+Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hey+there!+👋;I'm+Virender+Prasad;Full-Stack+Engineer;AI+%2B+Web3+%2B+DevOps+Enthusiast" />
 </h1>
 
 <p align="center">
-<img src="http://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV0eXI5eGNnZHRyd284MDJ0OWI1cnowY3E2ajlvZHhteml1aG1vMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H1jSPXCJmo8AZi3gdP/giphy.gif" alt="Hello" width="205"/>
+<img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200"/>
 </p>
 
-<p align="center"> 
-🚀 Passionate developer building impactful products and contributing to open-source. Always learning, experimenting, and pushing limits to become a truly <strong>cracked developer</strong> while giving back to the community. 💪
-</p>
-
----
-
-<h2 align="center">🧠 Languages, Frameworks & Tools</h2>
-<br/>
-
-<div align="center">
-
-  <h3>⚡ Frontend</h3>
-  <p>
-    Building interactive and scalable UIs with modern frameworks.  
-  </p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,html,css,tailwind,bootstrap,figma" alt="Frontend Skills" />
-
-  <br/><br/>
-
-  <h3>🖥️ Backend</h3>
-  <p>
-    Crafting reliable APIs and managing data with modern technologies.  
-  </p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,postgres,mongodb,redis,prisma" alt="Backend Skills" />
-
-  <br/><br/>
-
-  <h3>⚙️ DevOps & Tools</h3>
-  <p>
-    Automating workflows, containerizing apps, and collaborating efficiently.  
-  </p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vscode,linux,notion,pnpm" alt="DevOps Tools" />
-
-  <br/><br/>
-
-</div>
-
----
-
-<h2 align="center">🚀 Currently Exploring</h2>
 <p align="center">
-  🔍 Diving deeper into real-time systems, scalable architectures, and open-source contributions.  
-  <br/>Currently exploring <strong>WebSockets</strong>, <strong>performance optimization</strong>, and <strong>serverless architecture</strong>.
+🚀 Full-Stack Engineer building scalable products and learning modern infrastructure.<br/>
+Currently focused on <strong>DevOps</strong> while preparing for <strong>AI + Web3</strong>.
 </p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,aws,docker,redis,kubernetes" alt="Currently Exploring" />
-</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virenishere&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
- 
-  <em><b>Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects!</b></em>&nbsp;&nbsp;
- 
-</div>
+- Full-Stack Engineer (MERN • TypeScript • Python)  
+- Learning DevOps (AWS • Docker • Linux)  
+- Exploring AI + Web3  
+- Practicing DSA  
+- OS: macOS • Linux • Windows  
 
 ---
 
-<div align="center">
-  <strong>Built with passion. Crafted with code. Deployed with precision.</strong> ✨
-</div>
+## 🔗 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### ⚡ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma" />
+
+### 🖥 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mongodb,postgres,redis,prisma" />
+
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,vscode,postman,pnpm" />
+
+---
+
+## 🚀 Currently Learning
+
+### DevOps (primary focus)
+
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,linux" />
+
+---
+
+## 🧭 Planned Next
+
+nestjs • threejs • go • rust • web3 • ai
+
+---
+
+## 📊 GitHub Stats (Auto Dark/Light)
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Virenishere&show_icons=true&theme=transparent"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Virenishere&theme=transparent"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virenishere&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+## ✨ Philosophy
+
+> Build. Break. Learn. Repeat.  
+> Consistency beats motivation.
+
+---
+
+<p align="center">
+<strong>Built with passion. Crafted with code. Deployed with precision.</strong> 🚀
+</p>
